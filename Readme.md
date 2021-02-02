@@ -26,7 +26,7 @@ two options, including an online web-server for basic analysis and an offline pa
 Source code and data are available at [GitHub](https://github.com/mldlproject/2020-cMIC-AntiKP)
 
 ## Webserver
-Please access our webserver [here](http://9b4b7fcc8271.ngrok.io)
+Please access our webserver [here](http://cmic.studio)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
