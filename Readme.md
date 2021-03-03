@@ -1,4 +1,4 @@
-# cMIC-AntiKP: Calculating MICs of Antibiotics towards Klebsiella Pneumoniae
+# eMIC-AntiKP: Estimating MICs of Antibiotics towards Klebsiella Pneumoniae
 #### H. H. Ngo, T-H. Nguyen-Vo, T. T. T. Do, M. T. Do, Q. H. Nguyen, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 
