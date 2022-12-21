@@ -23,7 +23,7 @@ computing source to make it become a compact and portable tool for most moderate
 two options, including an online web-server for basic analysis and an offline package for deeper analysis and technical modification. 
 
 ## Availability and implementation
-Source code and data are available at [GitHub](https://github.com/mldlproject/2020-cMIC-AntiKP)
+Source code and data are available at [GitHub](https://github.com/quangnhbk/mic_klebsiella_pneumoniae)
 
 ## Webserver
 Please access our webserver [here](http://103.124.95.126)
